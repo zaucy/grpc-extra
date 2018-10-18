@@ -1,0 +1,15 @@
+[submodule "third_party/grpc-node"]
+	path = third_party/grpc-node
+	url = https://github.com/grpc/grpc-node
+[submodule "third_party/grpc-web"]
+	path = third_party/grpc-web
+	url = https://github.com/grpc/grpc-web
+[submodule "third_party/grpc-swift"]
+	path = third_party/grpc-swift
+	url = https://github.com/grpc/grpc-swift
+[submodule "third_party/swift-protobuf"]
+	path = third_party/swift-protobuf
+	url = https://github.com/apple/swift-protobuf
+[submodule "third_party/grpc-java"]
+	path = third_party/grpc-java
+	url = https://github.com/grpc/grpc-java
